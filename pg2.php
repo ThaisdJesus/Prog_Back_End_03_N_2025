@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Programação Back-End - PHP</title>
+    <title>PG2 - INFO</title>
 </head>
 <body>
-    <h1>Testando php 26/08/25</h1>
-    <?php
-    echo "Comando pelo php novo";
-    ?>
+    <h1>PG2 - INFO</h1>
     <br>
-    <a href="pg1.php">Ir para PG1</a>
+    <a href="index.php">Voltar ao Index</a>
+    <?php
+    //phpinfo();
+    ?>
+    
 </body>
 </html>
